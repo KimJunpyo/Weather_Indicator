@@ -9,8 +9,8 @@ Open weather API: https://openweathermap.org/
 <br />
 
 ## 필수 기능
-- [ ] 지역별 날씨
-- [ ] 날씨 이미지/이모지 포함
+- [x] 지역별 날씨
+- [x] 날씨 이미지/이모지 포함
 
 <br />
 
