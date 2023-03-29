@@ -22,7 +22,7 @@ CSS보다 기능에 조금 더 집중해주세요
 ## 개인 기록
 - [MinJae - Kim](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-crow.md)
 - [황찬우](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-crow.md)
-- [KimJunpyo](#)
+- [KimJunpyo](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-jp.md)
 - [KimYoungWoong](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-hero.md)
 - [Ryu Jisu](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-js.md)
 - [TaeWooKim-SCH](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-tw.md)
