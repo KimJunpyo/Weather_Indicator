@@ -7,7 +7,7 @@ const SelectRegion = ({setCityId}) => {
   return (
     <>
       <div>
-        <select onChange={handleChangeSelect}>
+        <select className="absolute top-0 left-0" onChange={handleChangeSelect}>
           {REGION.map((e) => (
             <option value={e.id} key={e.id}>
               {e.city}

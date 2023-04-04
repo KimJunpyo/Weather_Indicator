@@ -1,5 +1,5 @@
 import {Routes, Route} from "react-router-dom";
-import Main from "./Pages/Main";
+import Main from "./pages/Main";
 import "./index.css";
 
 function App() {
