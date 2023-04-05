@@ -43,7 +43,6 @@ const Main = () => {
         `https://api.openweathermap.org/data/2.5/weather?id=${cityId}&appid=${API_Key}&lang=kr`
       )
       .then((response) => {
-        console.log(response);
         setRegion(response.data.name);
         setCurrentTime(new Date(response.data.dt * 1000).toLocaleString());
         setSunrise(() =>
@@ -82,6 +81,7 @@ const Main = () => {
           };
           return tempObj;
         });
+
         axios
           .get(
             `https://api.openweathermap.org/data/2.5/forecast?id=${cityId}&appid=${API_Key}`
@@ -89,7 +89,6 @@ const Main = () => {
           .then((response) => {
             handleTempData(response.data.list.slice(0, 9));
           });
-        console.log(new Date().getDate());
       })
       .catch((err) => {
         console.log(err);
