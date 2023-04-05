@@ -19,10 +19,34 @@ CSS보다 기능에 조금 더 집중해주세요
 
 <br>
 
-## 개인 기록
-- [MinJae - Kim](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-crow.md)
-- [황찬우](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-crow.md)
-- [KimJunpyo](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-jp.md)
-- [KimYoungWoong](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-hero.md)
-- [Ryu Jisu](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-js.md)
-- [TaeWooKim-SCH](https://github.com/FE-Sprint-Study/Weather-Indicator/blob/main/readme/READ-tw.md)
+# 개인 기록
+## 2023-03-30
+
+### feat: 디자인 환경 조성, 불필요한 데이터 삭제
+
+1. 디자인을 위한 tailwind 환경을 설정하였습니다.
+2. 불필요한 데이터 및 사진들을 정리하였습니다.
+3. Route 방식을 적용하여 Pages의 파일에 접근하도록 하였습니다.
+
+### feat: 큰 틀의 레이아웃 설정, API 동기화, Select Region
+
+1. 큰 틀의 레이아웃을 구현하였습니다.
+2. API를 동기화하여 API에서 받아온 데이터로 값이 나타나게 됩니다.
+3. Select 기능을 이용하여 특정 지역을 선택 시, 전체 데이터의 값이 실시간으로 변경되어 나타납니다.
+
+## 2023-03-31
+
+### feat: 기상 아이콘 출력
+
+1. 기상 아이콘이 출력되도록 하였습니다.
+
+## 2023-04-05
+
+### feat: 세부 레이아웃 구성, 날씨에 필요한 모든 데이터 변형하여 출력, 지역 추가, 날씨에 맞춰 배경 변경
+
+1. 세부 레이아웃을 와이어프레임에 맞춰서 나눴습니다.
+2. API에서 받아온 데이터를 필요한 조건과 출력 양식에 맞춰서 변형하여 출력했습니다.
+3. 최고, 최저 온도를 계산하여 출력했습니다.
+4. 여러 나라의 유명 도시를 추가하였습니다.
+5. 날씨에 맞춰서 배경이 변경되도록 했습니다.
+
